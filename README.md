@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 #### Technical Skills: Python, SQL, Power Bi, Docker
 #### Libraries: Numpy, Pandas, Scikit-learn, OpenCV, Seaborn, Matplotlib
